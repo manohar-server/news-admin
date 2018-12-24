@@ -5,7 +5,7 @@ return [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=localhost;dbname=solapur_db',
             'username' => 'root',
-            'password' => 'S0ftFee1s@1001',
+            'password' => '',
             'charset' => 'utf8',
         ],
         'mailer' => [
